@@ -24,5 +24,7 @@ Moshi는 Square에서 개발한 JSON 파서 라이브러리입니다. Gson과 �
    
 2. 의존성 추가
   *`implementation*("com.squareup.retrofit2:retrofit:2.9.0")`
+   
   *`implementation*("com.squareup.retrofit2:converter-moshi:2.9.0")`
+  
   *`implementation*("com.squareup.moshi:moshi-kotlin:1.14.0")`
